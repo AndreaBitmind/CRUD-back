@@ -1,0 +1,4 @@
+MONGO_USERNAME="andreamartinez"
+MONGO_PASSWORD="prueba1"
+
+SERVER_PORT="9090"
